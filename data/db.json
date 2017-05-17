@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name":"Dalila",
+        "age":24,
+        "cars":[ "Honda" ]
+    },
+    {
+        "id": 2,
+        "name":"Filipe",
+        "age":25,
+        "cars":[ "VW" ]
+    }
+]
